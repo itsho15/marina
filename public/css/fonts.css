@@ -1,0 +1,54 @@
+@font-face {
+	font-family: 'BL';
+	src: url('../fonts/Bahij_TheSansArabic-Light.ttf');
+	src: url('../fonts/Bahij_TheSansArabic-Light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'BB';
+	src: url('../fonts/Bahij_TheSansArabic-Bold.ttf');
+	src: url('../fonts/Bahij_TheSansArabic-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'BM';
+	src: url('../fonts/bahij_helvetica_neue_roman_by_bahijvirtualacademy-dammd50.ttf');
+	src: url('../fonts/bahij_helvetica_neue_roman_by_bahijvirtualacademy-dammd50.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'DR';
+	src: url('../fonts/DroidKufi-Regular.ttf');
+	src: url('../fonts/DroidKufi-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'BP';
+	src: url('../fonts/Bahij_TheSansArabic-Plain.ttf');
+	src: url('../fonts/Bahij_TheSansArabic-Plain.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Bbs';
+	src: url('../fonts/Bahij_TheSansArabic-SemiBold.ttf');
+	src: url('../fonts/Bahij_TheSansArabic-SemiBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'khebrat';
+	src: url('../fonts/khebrat-musamim.ttf');
+	src: url('../fonts/khebrat-musamim.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+

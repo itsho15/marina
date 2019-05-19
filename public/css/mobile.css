@@ -1,0 +1,539 @@
+@media  (min-width: 991px) {
+.mobile-first {
+    max-width: 100%;
+    height: 100%;
+}
+.mobile-first::-webkit-scrollbar {
+ width: 6px;
+ float: right;
+}
+.mobile-first::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: #1f1f1f;
+}
+.mobile-first::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #2e2e2e;
+}
+.form-style .nextPage, .form-style .btn.btn-success, .nextPage { 
+	width: 45%;
+}
+.content.bg {
+    padding: 95px 180px 22vh;
+}
+.logo-header img {
+    max-width: 45px;
+}
+.logo-header img:last-child {
+    max-width: 130px;
+}
+.modal-dialog {
+    margin: 10% auto 0;
+}
+.account-bank {
+    margin: 15px;
+    width: 46%;
+}
+.choose-login {
+    text-align: center;
+}
+.choose-login a {
+    display: inline-block;
+    margin: 35px 10px;
+	max-width: 340px;
+    font-size: 18px;
+}
+.content::after {
+    max-width: 220px;
+    max-height: 300px;
+    bottom: -90px;
+}
+.form-style h2 i {
+    right: -10px;
+}
+.continue a {
+    display: inline-block;
+    margin: 20px;
+    width: 40%;
+}
+.continue {
+    text-align: center;
+}
+.content {
+    padding-bottom: 22vh;
+}
+.checkB {
+    text-align: right;
+    direction: ltr;
+}
+.otherStyle .checkB { 
+	text-align: start;
+	direction: rtl;
+	padding: 0 40px;
+}
+.checkmark { 
+	right: auto;
+	left: auto;
+	margin: 0 8px;
+}
+.form-group.otherStyle .checkB .checkmark {
+    top: 6px;
+}
+.margin {
+    padding: 44px 15px;
+}
+.form-style .pull-left .control-label {
+    margin-bottom: 40px;
+}
+.title-table {
+    margin: 25px 25px;
+}
+.modal-body {
+    padding: 50px 30px;
+}
+
+
+
+}
+@media (max-width: 990px) { 
+.form-style .col-sm-6.col-xs-12.paddingN, .form-style .paddingN .col-sm-6.col-xs-12 {
+    width: 100%;
+}
+.form-style .paddingN .col-sm-6.col-xs-12 { 
+	padding: 0;
+}
+
+}
+@media (max-width: 640px) {
+.mobile-first { 
+	max-width: 100%;
+}
+.time_pick {
+    width: 85%;
+}
+.content {
+    padding: 0px 0px 40px;
+}
+
+}
+
+@media (max-width: 580px) { 
+
+.content.bg {
+    padding: 0 0 50px;
+}
+.cont h1, .cont h2 {
+    line-height: 28px;
+}
+.logo-comp svg {
+	height: 85px;
+}
+.logo-text p { 
+	font-size: 14px;
+}
+.logo-text span { 
+	font-size: 8px;
+}
+.lineone {
+    stroke-width: 28px;
+}
+.linetwo {
+    stroke-width: 15px;
+}
+.linethree {
+    stroke-width: 15px;
+}
+.loader.second .ball-scale-multiple img {
+    max-width: 60px;
+}
+.logo-comp {
+    width: 140px;
+}
+footer {
+    text-align: center;
+}
+ 
+
+
+}
+@media () { 
+.form-style .choose .check, .choose .check { 
+
+}
+}
+@media (max-width: 490px) { 
+.account-bank .col-xs-6 {
+    width: 100%;
+}
+.paddingN .day, .paddingN .month {
+    width: 50%;
+    margin: 0 0 30px;
+}
+.paddingN .years {
+    width: 50%;
+}
+}
+@media (max-width: 480px){
+#sidebar-wrapper { 
+	width: 350px;
+}
+.form-group.col-xs-6 {
+    width: 100%;
+}
+.text.col-xs-4 {
+    width: 100%;
+}
+.choose.col-xs-4 {
+    width: 50%;
+}
+.num {
+    width: 70px;
+    height: 48px;
+    font-size: 14px;
+
+}
+.form-style.two .choose.col-xs-4 {
+    width: 100%;
+    margin: 16px 0;
+}
+.form-style.two .form-group.col-xs-2 {
+    width: 30%;
+}
+.form-style.two .form-group.col-xs-10 {
+    width: 70%;
+}
+.form-style input.small-width {
+    width: 100%;
+}
+.form-style.two .choose label {
+    margin: 0;
+    height: auto;
+}
+.account-bank .img {
+    padding: 0 15px;
+    margin-bottom: 12px;
+}
+.account-bank { 
+	padding: 25px 10px;
+}
+.modal-body {
+    padding: 30px;
+}
+.modal-body p { 
+	font-size: 15px;
+}
+.close { 
+	font-size: 18px;
+}
+.topf li span {
+    width: auto;
+    float: none;
+}
+.cont h1, .cont h2 span {
+    font-size: 14px;
+    line-height: 20px;
+}
+.prgraf p {
+    margin: 20px 0;
+    font-size: 15px;
+}
+.box p {
+    font-size: 12px;
+    line-height: 30px;
+}
+.cont .col-xs-4 {
+    padding: 0;
+}
+.date h1 { 
+	font-size: 12px;
+}
+.date {
+    margin: 0 0 10px;
+}
+footer .col-xs-4 {
+    padding: 0;
+}
+.form-style .col-xs-4.select.day i, .form-style .col-xs-4.select.month i, .form-style .col-xs-4.select.years i { 
+    right: 15px;
+}
+.logo-comp {
+    width: 140px;
+}
+.timepicker_wrap {
+    width: 200%;
+}
+.arrow_top {
+    right: 20px;
+}
+.timepicker_wrap {
+    right: 0;
+}
+.time_pick {
+    width: 75%;
+}
+.to .timepicker_wrap:nth-child(2) {
+    right: auto;
+}
+.to .timepicker_wrap .arrow_top {
+    right: auto;
+}
+
+
+
+}
+@media (max-width: 400px) { 
+#sidebar-wrapper {
+    width: 300px;
+}
+.logo-header img {
+    max-width: 35px;
+}
+footer { 
+	padding: 20px 0 ;
+}
+footer p { 
+	font-size: 9px;
+}
+header .language {
+    margin-right: 0;
+}
+.form-style .choose .check {
+    border: 2px solid #e2e1e0;
+    height: 15px;
+    width: 15px;
+    top: 5px;
+}
+.form-style .choose input[type=radio]:checked ~ .check {
+    border: 2px solid #c39438;
+}
+.form-style .choose input[type=radio]:checked ~ .check::after, .choose input[type=radio]:checked ~ .check::after {
+    top: -8px;
+    font-size: 16px;
+    right: -4px;
+}
+.form-group p { 
+	margin: 15px 0;
+	font-size: 14px;
+}
+.form-style .text h1 {
+    margin: 30px 0 0;
+}
+.title h1 { 
+	font-size: 16px;
+}
+.clock img {
+    max-width: 180px;
+}
+.clock { 
+	margin-bottom: 60px;
+}
+.loader.second .ball-scale-multiple img {
+    max-width: 45px;
+}
+footer .col-xs-8 {
+    width: 100%;
+    text-align: center;
+}
+footer .col-xs-4 {
+    width: 100%;
+}
+.logo-comp {
+    display: block;
+    float: none;
+    text-align: center;
+    width: 42%;
+    margin: 0px auto;
+}
+.logo-text {
+    left: -25px;
+}
+footer p {
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+#page-content-wrapper {
+    right: 15px;
+}
+header .language {
+    left: 15px;
+}
+.backPage {
+    left: 15px;
+}
+footer a {
+    font-size: 13px;
+}
+
+}
+@media (max-width: 385px) {
+
+.date h1 span {
+    margin-left: 2px;
+}
+.date h1:nth-child(2) span {
+    margin-right: 2px;
+}
+.form-style .nextPage, .form-style .btn.btn-success, .nextPage {
+    font-size: 17px;
+}
+}
+@media (max-width: 360px) {
+
+.form-style .col-sm-4.col-xs-6 {
+    width: 100%;
+}
+.form-style .col-xs-4.select {
+    width: 100%;
+    margin: 20px 0 0;
+}
+.form-style .col-sm-6.col-xs-6 {
+    width: 100%;
+}
+.form-style .col-xs-4.select.day, .form-style .col-xs-4.select.month, .form-style .col-xs-4.select.years {
+    width: 33%;
+    margin: 20px 0 0;
+}
+.form-style .col-xs-4.select.day select, .form-style .col-xs-4.select.month select, .form-style .col-xs-4.select.years select {
+    padding: 0 5px;
+	text-align: center;
+	text-align-last: center;
+	width: 80px;
+}
+.form-style .paddingN .select.day::after, .form-style .paddingN .select.month::after, .form-style .paddingN .select.years::after {
+    left: 20px;
+    top: 16px;
+    font-size: 12px;
+}
+.form-style .col-xs-4.select.day i, .form-style .col-xs-4.select.month i, .form-style .col-xs-4.select.years i { 
+    font-size: 12px;
+	padding: 18px 6px 18px 0;
+}
+.form-style .col-md-4.col-xs-6 {
+    width: 100%;
+}
+
+}
+@media (max-width: 340px) { 
+.date h1 {
+    font-size: 10px;
+}
+.print h1 span::after {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.lineone {
+    stroke-width: 25px;
+}
+.linetwo, .linethree {
+    stroke-width: 12px;
+}
+.logo-text p {
+    font-size: 12px;
+}
+.logo-text span {
+    font-size: 7px;
+}
+.form-style .choose label, .choose label { 
+	font-size: 12px;
+}
+.choose .checkbox { 
+	width: 15px;
+	height: 15px;
+}
+.form-style .text h1, .form-style .choose label, .choose label {
+    line-height: 18px;
+    margin-bottom: 15px;
+}
+
+
+
+}
+@media (max-width: 320px) {
+.logo img {
+    max-width: 25%;
+}
+.logo span {
+    font-size: 20px;
+    padding: 6px 0;
+}
+.hamburger .bar {
+    width: 32px;
+    height: 3px;
+}
+.hamburger .bar.two {
+    width: 25px;
+}
+.hamburger .bar.one {
+    width: 17px;
+}
+.search, .language { 
+	font-size: 15px;
+}
+.btn-style {
+    font-size: 15px;
+    padding: 20px 8px;
+    margin: 20px auto;
+    max-width: 95%;
+}
+.content::after {
+    max-width: 140px;
+    max-height: 226px;
+    bottom: -15px;
+}
+#sidebar-wrapper {
+    width: 240px;
+}
+.sidebar-nav li a {
+    font-size: 15px;
+    line-height: 40px;
+}
+#sidebar-wrapper .social-media li a {
+    font-size: 16px;
+}
+#sidebar-wrapper .social-media li {
+    margin: 0 12px;
+}
+.content.bg::after {
+    max-width: 142px;
+    max-height: 110px;
+    background-size: 100% 100%;
+}
+.logo-singer img { 
+	width: 77px;
+	height: 77px;
+}
+.modal-dialog {
+    margin: 41% 10px;
+}
+.modal .nextPage {
+    width: 135px;
+    padding: 6px;
+    font-size: 18px;
+}
+.clock img {
+    max-width: 160px;
+}
+.content.bg.done .title h1 {
+    line-height: 30px;
+}
+.title h1 {
+    font-size: 16px;
+}
+.clock { 
+	margin-bottom: 40px;
+}
+.form-style .col-md-3.col-xs-4 {
+    width: 100%;
+}
+.form-style .col-md-3.col-xs-4 .choose.form-group {
+    margin: 0 0 20px;
+}
+.form-style .col-md-3.col-xs-4 .choose.form-group p {
+    margin: 0;
+}
+.form-style .paddingN .select.day::after, .form-style .paddingN .select.month::after, .form-style .paddingN .select.years::after {
+    left: 8px;
+}
+
+}
