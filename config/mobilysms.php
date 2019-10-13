@@ -1,9 +1,9 @@
 <?php
 
 return [
-	'sender'     => 'elryad.com', // Mobily.ws Sender Name
-	'mobile'     => '966561359517', // Mobily.ws Account Mobile (Username)
-	'password'   => 'saleh2010', // Mobily.ws Password
+	'sender'     => '', // Mobily.ws Sender Name
+	'mobile'     => '', // Mobily.ws Account Mobile (Username)
+	'password'   => '', // Mobily.ws Password
 	'deleteKey'  => 541235,
 	'resultType' => 1,
 	'viewResult' => 1,
